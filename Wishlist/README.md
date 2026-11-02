@@ -2,6 +2,10 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+## Tailwind CSS
+
+Tailwind CSS is configured through the Vite plugin. Add utility classes directly to JSX `className` attributes; the stylesheet is loaded from `src/main.jsx`.
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
